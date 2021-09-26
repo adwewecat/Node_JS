@@ -1,0 +1,9 @@
+
+1. HTTP Protocol
+-- Website (HTML, CSS, Javascript, JSON, XML, static files, …) được truyền tải qua internet
+-- Giao Thức : Cách thức dữ liệu được gửi đi với giao thức HTTP
+-- Cấu trúc tổng quát của HTTP response gồm những thành phần : Header và Body 
+
+
+
+

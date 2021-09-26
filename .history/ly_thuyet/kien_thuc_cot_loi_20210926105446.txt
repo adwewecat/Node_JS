@@ -1,0 +1,9 @@
+
+1. HTTP Protocol
+-- Website (HTML, CSS, Javascript, JSON, XML, static files, …) được truyền tải qua internet
+-- 
+
+
+
+
+
