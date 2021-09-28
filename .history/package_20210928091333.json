@@ -1,0 +1,27 @@
+{
+    "name": "node_js",
+    "version": "1.0.0",
+    "description": "",
+    "main": "srcindex.js",
+    "dependencies": {
+        "express": "^4.17.1",
+        "express-handlebars": "^5.3.4",
+        "morgan": "^1.10.0",
+        "nodemon": "^2.0.13"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "nodemon --inspect index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/adwewecat/Node_JS.git"
+    },
+    "author": "SoiNam",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/adwewecat/Node_JS/issues"
+    },
+    "homepage": "https://github.com/adwewecat/Node_JS#readme"
+}
