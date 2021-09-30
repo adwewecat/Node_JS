@@ -5,6 +5,7 @@ const path = require("path");
 const app = express();
 const port = 3000;
 
+
 app.use(express.static(path.join(__dirname, "public")));
 
 app.use(morgan("combined"));
@@ -33,9 +34,7 @@ app.get("/search", (req, res) => {
     res.render("search");
 });
 
-app.post("/search", (req, res) => {
-    res.send("");
-});
+
 
 app.listen(port, () => {
     console.log(`Example app listening at http://localhost:${port}`);
